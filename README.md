@@ -1,0 +1,2 @@
+# tranning
+learning devops
